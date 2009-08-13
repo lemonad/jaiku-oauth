@@ -14,7 +14,7 @@ Requires OAuth_, simplejson_ and, if using proxy, pycurl_.
 
 Note: The Jaikuengine API via OAuth is not widely used yet so you should
 not be too surprised if you find bugs. However, if you do find them, please
-report them_ so they can be fixed.
+`report them`_ so they can be fixed.
 
 .. _report them: http://code.google.com/p/jaikuengine/issues/list
 
